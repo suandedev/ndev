@@ -62,6 +62,7 @@ I am a Front End Developer(React) and Back End Developer(golang) <img src="https
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Reactjs, Create Badge](https://dev.to/suandedev/learn-reactjs-create-badge-46a7)
 - [learn react, creat alert combile tailwindcss.](https://dev.to/suandedev/learn-react-creat-alert-combile-tailwindcss-3fpk)
 - [my activity today is commit my react project to create template admin with tailwindcss.](https://dev.to/suandedev/my-activity-today-is-commit-my-react-project-to-create-template-admin-with-tailwindcss-e1n)
 <!-- BLOG-POST-LIST:END -->
