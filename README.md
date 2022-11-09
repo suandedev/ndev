@@ -62,9 +62,9 @@ I am a Front End Developer(React) and Back End Developer(golang) <img src="https
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Cat App](https://dev.to/suandedev/react-cat-app-3cf)
 - [improve golang skill](https://dev.to/suandedev/improve-golang-skill-19l5)
 - [improve](https://dev.to/suandedev/improve-44nd)
 - [reacct, vite and tailwindcss create register page.](https://dev.to/suandedev/reacct-vite-and-tailwindcss-create-register-page-5cd7)
-- [Learn Reactjs, Create Badge](https://dev.to/suandedev/learn-reactjs-create-badge-46a7)
 <!-- BLOG-POST-LIST:END -->
 
